@@ -1,2 +1,4 @@
 # Web-Dev
-html, css , JS
+Used: Html,CSS,JS(React)
+Author: Atharva Srivastava
+
